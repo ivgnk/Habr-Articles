@@ -9,4 +9,10 @@ Habr Articles and my testing examples
 2024.02.26 Константность в C++ https://habr.com/ru/articles/796233/
 
 ## Rust
-2024.02.24 Открытый код. Сокрытие данных https://habr.com/ru/articles/795905/              
+2024.02.24 Открытый код. Сокрытие данных https://habr.com/ru/articles/795905/         
+
+- - -
+## Open source              
+https://habr.com/ru/hubs/open_source/                      
+2024.02.25 [Российский open source и работа с открытыми решениями: какие вопросы заслуживают внимания — чеклист и мнения экспертов](https://habr.com/ru/articles/795843/)           
+
