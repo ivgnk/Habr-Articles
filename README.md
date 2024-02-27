@@ -15,7 +15,7 @@ Habr Articles and my testing examples
 
 - - -
 ## Open source  2024.01.29-2024.02.26            
-https://habr.com/ru/hubs/open_source/                      
+**https://habr.com/ru/hubs/open_source**                                       
 2024.02.25 [Российский open source и работа с открытыми решениями: какие вопросы заслуживают внимания — чеклист и мнения экспертов](https://habr.com/ru/articles/795843/)           
 31.01.2024 [Бизнес на Open-Source на примере Red Hat, Databricks, Grafana, Cloudera, Confluent, Elastic и других](https://habr.com/ru/companies/amvera/articles/790522/)       
 
