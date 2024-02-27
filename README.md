@@ -24,7 +24,7 @@ Habr Articles and my testing examples
 [Борьба с рутиной при написании сопроводительных писем с использованием Python](https://habr.com/ru/articles/796519/)             
 
 ## История
-2023
+2023                 
 Погоня за эффективностью и наука пара https://habr.com/ru/articles/781932/                   
 Американская паровая империя https://habr.com/ru/articles/770236/                  
 Британская паровая империя https://habr.com/ru/articles/742456/                    
