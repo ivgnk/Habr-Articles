@@ -25,10 +25,10 @@ Habr Articles and my testing examples
 
 ## История
 2023
-Погоня за эффективностью и наука пара https://habr.com/ru/articles/781932/
-Американская паровая империя https://habr.com/ru/articles/770236/
-Британская паровая империя https://habr.com/ru/articles/742456/
-2021
+Погоня за эффективностью и наука пара https://habr.com/ru/articles/781932/                   
+Американская паровая империя https://habr.com/ru/articles/770236/                  
+Британская паровая империя https://habr.com/ru/articles/742456/                    
+2021                    
 **[Эпоха пара: Введение / Вес воздуха](https://habr.com/ru/articles/547794/)** 
 
 
